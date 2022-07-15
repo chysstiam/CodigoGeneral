@@ -1,6 +1,6 @@
 [
-{"alumno":"cristian","nota":"100","ranking":"10"},
-{"alumno":"jacinto","nota":"50","ranking":"20"},
-{"alumno":"yolanda","nota":"70","ranking":"30"},
-{"alumno":"francisco","nota":"80","ranking":"40"}
+{"alumno":"cristian","nota":100,"ranking":10},
+{"alumno":"jacinto","nota":50,"ranking":20},
+{"alumno":"yolanda","nota":70,"ranking":30},
+{"alumno":"francisco","nota":80,"ranking":40}
 ]
