@@ -1,0 +1,21 @@
+[
+{
+"alumno":"Cristian Guanin"
+,"nota":9.09
+,"ranking":10
+}
+,
+{"alumno":"Yolanda Leon"
+,"nota":5
+,"ranking":150
+}
+,
+{"alumno":"Guillermo Leon"
+,"nota":6
+,"ranking":150
+},
+{"alumno":"Juan Carlos "
+,"nota":7
+,"ranking":150
+}
+]
