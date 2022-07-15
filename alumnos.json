@@ -1,21 +1,6 @@
 [
-{
-"alumno":"Cristian Guanin"
-,"nota":9.09
-,"ranking":10
-}
-,
-{"alumno":"Yolanda Leon"
-,"nota":5
-,"ranking":150
-}
-,
-{"alumno":"Guillermo Leon"
-,"nota":6
-,"ranking":150
-},
-{"alumno":"Juan Carlos "
-,"nota":7
-,"ranking":150
-}
+{"alumno":"cristian","nota":"100","ranking":"10"},
+{"alumno":"jacinto","nota":"50","ranking":"20"},
+{"alumno":"yolanda","nota":"70","ranking":"30"},
+{"alumno":"francisco","nota":"80","ranking":"40"}
 ]
